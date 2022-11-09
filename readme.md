@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Manuel Valdes
 
-<div align="center">
+<div>
   <a href="https://github.com/manuel-valdes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=manuel-valdes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-valdes&layout=compact&langs_count=7&theme=dracula"/>
